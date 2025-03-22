@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+whisper
+openai
+coqui-ai
+TTS
+gradio
+aiortc
+numpy
+sounddevice
+onnxruntime
+webrtcvad
+chromadb
+tensorflow-federated
+transformers
+paho-mqtt
